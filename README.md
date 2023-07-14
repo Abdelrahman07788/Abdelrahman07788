@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Abdelrahman Yassin" />
+</h1>
 
-<!--
-**Abdelrahman07788/Abdelrahman07788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelrahman--yassin-blue)](https://www.linkedin.com/in/abdelrahman-yassin-6260b5228/)
+[![GitHub](https://img.shields.io/badge/GitHub-abdelrahman--yassin-black)](https://github.com/Abdelrahman07788)
+[![Twitter](https://img.shields.io/badge/Twitter-@abdelrahman__yassin-lightblue)](https://twitter.com/AbdelrahmanMUN)
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Abdelrahman Yassin, a passionate embedded software developer with a focus on automotive software development and open-source projects. I love to explore new technologies and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+
+- Programming languages: C, C++, Python
+- Version Control: Git, GitHub
+
+## 📫 Contact Me
+
+Feel free to reach out to me through the following channels:
+
+- LinkedIn: [Abdelrahman Yassin](https://www.linkedin.com/in/abdelrahman-yassin-6260b5228/)
+- GitHub: [abdelrahman-yassin](https://github.com/Abdelrahman07788)
+- Twitter: [@abdelrahman_yassin](https://twitter.com/AbdelrahmanMUN)
+
+Let's connect and collaborate on exciting projects together!
