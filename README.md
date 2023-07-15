@@ -28,8 +28,8 @@ Hello World! 👾 I'm Abdelrahman Yassin, a passionate embedded software develop
 
 Feel free to reach out to me through the following channels:
 
-<p><a href="https://twitter.com/AbdelrahmanMUN"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abdelrahman-yassin-6260b5228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:abdlerahmanyassin07@gmail.com">
+<p><a href="https://twitter.com/AbdelrahmanMUN"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abdelrahman-yassin-6260b5228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="abdlerahmanyassin07@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a> <a href="mailto:eng-abdelrahman.yassin1621@alexu.edu.eg">
+</a> <a href="eng-abdelrahman.yassin1621@alexu.edu.eg">
   <img src="https://img.shields.io/badge/outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25>
 </a>
